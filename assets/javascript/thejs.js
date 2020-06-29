@@ -221,7 +221,7 @@ function myStory(parentJson, folder, addToDom) {
   this.title = rootJson.title;
   if (rootJson.over_18) {
     if (!alwaysHideNSFW || true) {
-      this.title = this.title + '<b><font style="color:red"> NSFW</font></b>';
+      this.title = this.title + '<b><font style="color:blue"> NSFW</font></b>';
     }
   }
   previewHTML = previewHTML.replace('%author', author);
