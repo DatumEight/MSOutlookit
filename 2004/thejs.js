@@ -1299,7 +1299,8 @@ $(document).ready(function(){
 	makeFolder('reddit.com');
 	makeFolder('funny');
 	makeFolder('iama');
-	makeFolder('wtf');
+    makeFolder('wtf');
+    makeFolder('coronavirus');
 
 	//load inbox
 	$('#folder_FrontPage').parent().addClass('foldwraphi');
