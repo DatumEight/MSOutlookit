@@ -853,6 +853,7 @@ $(document).ready(function() {
   makeFolder('funny');
   makeFolder('iama');
   makeFolder('wtf');
+  makeFolder('coronavirus');
   $('#folder_FrontPage').parent().addClass('foldwraphi');
   folderClick('folder_FrontPage');
   $('.outlookmin').click(function() {
