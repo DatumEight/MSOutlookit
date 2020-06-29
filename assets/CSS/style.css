@@ -164,7 +164,7 @@ div.theemailbody * .ui-resizable-e {
 }
 
 .upperleft {
-	background-image:url('assets/media/topleft.png');
+	background-image:url('/assets/media/topleft.png');
 	/*background-position: 368px 317px; */
 	position:fixed;
 	z-index:2;
@@ -175,7 +175,7 @@ div.theemailbody * .ui-resizable-e {
 }
 
 .upperright {
-	background-image:url('assets/media/upperright.png');
+	background-image:url('/assets/media/upperright.png');
 	/*background-position: 368px 317px; */
 	position:fixed;
 	z-index:2;
@@ -186,7 +186,7 @@ div.theemailbody * .ui-resizable-e {
 }
 
 .bottombar {
-	background-image:url('assets/media/lowbar.png');
+	background-image:url('/assets/media/lowbar.png');
 	width:3000px;
 	height:23px;
 	z-index:2;
@@ -196,7 +196,7 @@ div.theemailbody * .ui-resizable-e {
 }
 
 .topbar {
-	background-image:url('assets/media/topbar.PNG');
+	background-image:url('/assets/media/topbar.PNG');
 	position:fixed;
 	top:0px;
 	left:0px;
@@ -222,7 +222,7 @@ div.theemailbody * .ui-resizable-e {
 }
 
 .buttons {
-	background-image:url('assets/media/buttons.png');
+	background-image:url('/assets/media/buttons.png');
 	position:fixed;
 	top:54px;
 	left:0px;
@@ -256,13 +256,13 @@ div.theemailbody * .ui-resizable-e {
 }
 
 .middleupper {
-	background-image:url('assets/media/middlebar.png');
+	background-image:url('/assets/media/middlebar.png');
 	width:383px;
 	height:58px;
 }
 
 .leftcolupper {
-	background-image:url('assets/media/leftupper.png');
+	background-image:url('/assets/media/leftupper.png');
 	/* background-position:-205px -384px; */
 	width:230px;
 	height:173px;
