@@ -245,7 +245,7 @@ function myStory(parentJson, folder, addToDom) {
 
 function getRedditDomain() {
   return (window.location.protocol === 'https:') ?
-    'https://pay.reddit.com' :
+    'https://www.reddit.com' :
     'http://www.reddit.com';
 }
 
